@@ -138,14 +138,18 @@ table {
     padding-bottom: 20px;
     margin-left: 300px; 
     margin-right: 300px;
+    background-color: #ffffff;
  }
 
  #container {
    width: 100%;
    background-image: url("images/backgroundImgBody-min.jpeg");
+   
  }
 
  #foot {
     position:absolute;
     bottom: 0;
+    height: 200px;
+    background-color: #808080;
 }
