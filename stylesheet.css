@@ -40,7 +40,7 @@ p {
    background-color: #808080;
    position: fixed;
    width: 100%;
-   display: inline;
+   display: inline-grid;
  }
 
  li {
@@ -105,7 +105,7 @@ p {
  #navbar li {
    width: 100%;
    margin-top: 0;
-   display: inline;
+   display: inline-grid;
    font-size: 18px;
    padding-left: 18%;
  }
