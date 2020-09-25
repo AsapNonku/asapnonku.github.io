@@ -33,6 +33,11 @@ p {
    margin-top: 210px
 }
 
+table {
+   align-items: center;
+   
+}
+
  ul {
    list-style-type: none;
    margin: 0;
