@@ -52,7 +52,7 @@ table {
  }
 
  li {
-   float: right;
+   float: center;
    font-family: "Merriweather";
  }
 
@@ -109,14 +109,14 @@ table {
    width: 10px;
  }
 
-  .socialMedia {
+ .socialMedia {
     width: 10px;
  }
 
  #navbar li {
    width: 100%;
    margin-top: 0;
-   display: inline-grid;
+   display: inline-block;
    font-size: 18px;
    padding-left: 18%;
  }
