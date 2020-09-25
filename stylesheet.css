@@ -114,11 +114,12 @@ table {
  .icon {
    width: 200px;
    align-items: center;
+   margin-left: 400px;
  }
 
  .socialMedia {
-    width: 80px;
-    height: 40px;
+    width: 100px;
+    margin-left: 400px;
  }
 
  #navbar {
