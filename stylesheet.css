@@ -148,7 +148,7 @@ table {
     width: 80px;
     margin-left: 350px;
     margin-right: 350px;
-    display: block;
+    display: flex;
  }
 
  #navbar {
@@ -183,4 +183,5 @@ table {
     bottom: 0;
     height: 200px;
     background-color: #808080;
+    width: 100%;
 }
