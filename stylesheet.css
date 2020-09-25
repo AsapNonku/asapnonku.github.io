@@ -91,9 +91,12 @@ p {
     width: 50px;
  }
 
- #navbar {
+ #navbar li {
    width: 100%;
    margin-top: 0;
+   display: inline;
+   font-size: 18px;
+   padding-left: 18%;
  }
 
  #container {
