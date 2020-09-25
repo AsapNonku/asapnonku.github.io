@@ -42,7 +42,7 @@ p {
 table {
    align-items: center;
    font-family: "Merriweather";
-   background-color: #ffffff;
+   background-color: rgba(255,255,255, 0.7);
    margin-left: 350px;
    margin-bottom: 50px;
 }
@@ -156,7 +156,7 @@ table {
     margin-left: 300px; 
     margin-right: 300px;
     margin-bottom: 20px;
-    background-color: #ffffff;
+    background-color: rgba(255,255,255, 0.7);
  }
 
  #container {
