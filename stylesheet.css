@@ -85,6 +85,10 @@ p {
    width: 50%;
  }
 
+  .socialMedia {
+    width: 50px;
+ }
+
  #navbar {
    width: 100%;
    margin-top: 0;
