@@ -53,11 +53,13 @@ table {
 
  li {
    float: right;
+   font-family: "Merriweather";
  }
 
  a {
    display: block;
    padding: 8px;
+   font-family: "Merriweather";
  }
 
  li a {
@@ -65,6 +67,7 @@ table {
    text-decoration: none;
    padding: 14px 16px;
    color: white;
+   font-family: "Merriweather";
  }
 
  li a:hover {
