@@ -82,6 +82,7 @@ table {
 
  .introductoryPage {
    width: 100%;
+   height: auto;
    background-image: url("images/backgroundImgIntro-min.jpeg"); 
  }
 
@@ -126,6 +127,10 @@ table {
    display: inline-block;
    font-size: 18px;
    padding-left: ;
+ }
+
+ #title {
+   padding-bottom: 20px;
  }
 
  #container {
