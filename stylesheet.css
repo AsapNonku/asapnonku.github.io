@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+@media only screen and (max-width: 992px) {
+    header ul {
+      display: flex; 
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-evenly;
+      margin: 0;
+      padding: 0;
+    }
+}
+
 @font-face {
   font-family: "Sacramento", cursive;
   src: url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
@@ -15,8 +26,8 @@
 
 body {
    margin: 0;
-   display: grid;
-   max-width: 
+   display: flex;
+   flex-direction: row;
  }
 
 h1 {
@@ -56,7 +67,8 @@ table {
    position: fixed;
    width: 100%;
    height: 100px;
-   display: block;
+   display: flex;
+   justify-content: space-evenly;
    margin-block-start: 0;
    margin-block-end: 0;
    padding-inline-start: 0;
