@@ -63,7 +63,7 @@ table {
  }
 
  a {
-   display: block;
+   display: inline-grid;
    padding: 4px;
    font-family: "Merriweather";
  }
