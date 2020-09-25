@@ -83,7 +83,8 @@ table {
  .introductoryPage {
    width: 100%;
    height: auto;
-   background-image: url("images/backgroundImgIntro-min.jpeg"); 
+   background-image: url("images/backgroundImgIntro-min.jpeg");
+   padding-bottom: 200px;
  }
 
  .aboutPage {
