@@ -7,7 +7,8 @@
    list-style-type: none;
    margin: 0;
    padding: 0;
-   background-color: #808080; 
+   background-color: #808080;
+   position: fixed;
    width: 100%;
  }
 
@@ -40,7 +41,3 @@
    height: 300vh;
    margin-top: 0;
  }
-
-#navbar {
-   position: fixed;
-}
