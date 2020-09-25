@@ -40,6 +40,7 @@ p {
    background-color: #808080;
    position: fixed;
    width: 100%;
+   display: inline;
  }
 
  li {
