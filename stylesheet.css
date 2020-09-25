@@ -64,7 +64,7 @@ p {
 
  .introductoryPage {
    width: 100%;
-   background-image: url("images/backgroundImgIntro.jpeg"); 
+   background-image: url("images/backgroundImgIntro-min.jpeg"); 
    height: 200vh;
  }
 
@@ -112,7 +112,7 @@ p {
  #container {
    width: 100%;
    height: 200vh;
-   background-image: url("images/backgroundImgBody.jpeg");
+   background-image: url("images/backgroundImgBody-min.jpeg");
  }
 
  #foot {
