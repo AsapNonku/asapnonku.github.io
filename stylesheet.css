@@ -7,7 +7,8 @@
    list-style-type: none;
    margin: 0;
    padding: 0;
-   background-color: #D3D3D3;
+   background-color: #808080; 
+   width: 100%;
  }
 
  li {
@@ -39,3 +40,7 @@
    height: 300vh;
    margin-top: 0;
  }
+
+#navbar {
+   position: fixed;
+}
