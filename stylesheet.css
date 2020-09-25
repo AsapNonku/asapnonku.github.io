@@ -63,7 +63,7 @@ table {
 
  a {
    display: block;
-   padding: 8px;
+   padding: 4px;
    font-family: "Merriweather";
  }
 
@@ -123,7 +123,7 @@ table {
    margin-top: 0;
    display: inline-block;
    font-size: 18px;
-   padding-left: 18%;
+   padding-left: 10px;
  }
 
  #container {
