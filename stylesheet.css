@@ -79,3 +79,8 @@ h3 {
    height: 300vh;
    margin-top: 0;
  }
+
+ #foot {
+    position:fixed;
+    bottom:0;
+}
