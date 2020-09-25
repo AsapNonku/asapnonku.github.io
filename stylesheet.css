@@ -122,8 +122,10 @@ table {
  }
 
  .socialMedia {
-    width: 100px;
-    margin-left: 400px;
+    width: 80px;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: inline;
  }
 
  #navbar {
