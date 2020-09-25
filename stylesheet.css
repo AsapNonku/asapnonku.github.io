@@ -42,7 +42,7 @@ table {
    align-items: center;
    font-family: "Merriweather";
    background-color: #ffffff;
-   margin-left: 400px;
+   margin-left: 350px;
    margin-bottom: 50px;
 }
 
@@ -131,6 +131,13 @@ table {
 
  #title {
    padding-bottom: 20px;
+ }
+
+ #about {
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin-left: 300px; 
+    margin-right: 300px;
  }
 
  #container {
