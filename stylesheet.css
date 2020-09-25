@@ -82,6 +82,13 @@ table {
    background-color: pink;
  }
 
+ hr {
+   border-top:1px dotted; 
+   border-style: none none dotted;
+   color: #808080;
+   background-color: #808080;
+ }
+
  .introductoryPage {
    width: 100%;
    height: auto;
