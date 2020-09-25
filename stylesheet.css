@@ -50,6 +50,7 @@ table {
    list-style-type: none;
    margin: 0;
    padding: 0;
+   overflow: hidden;
    background-color: #808080;
    position: fixed;
    width: 100%;
