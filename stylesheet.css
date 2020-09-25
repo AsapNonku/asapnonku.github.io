@@ -92,7 +92,7 @@ p {
 
  #container {
    width: 100%;
-   height: auto;
+   height: 400vh;
    background-image: url(backgroundImgBody.jpeg);
  }
 
