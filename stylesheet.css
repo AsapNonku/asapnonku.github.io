@@ -118,12 +118,12 @@ table {
     width: 40px;
  }
 
- #navbar li {
+ #navbar {
    width: 100%;
    margin-top: 0;
    display: inline-block;
    font-size: 18px;
-   padding-left: 10px;
+   padding-left: ;
  }
 
  #container {
