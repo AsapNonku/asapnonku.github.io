@@ -111,10 +111,8 @@ table {
  }
 
  hr {
-   border-top:8px dotted; 
+   border-top:8px solid #FFC0CB; 
    border-style: none none dotted;
-   color: #808080;
-   background-color: #808080;
    align-items: center;
  }
 
