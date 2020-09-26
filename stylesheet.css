@@ -186,8 +186,7 @@ table {
  .socialMedia {
     width: 60px;
     display: flex;
-/*     margin-left: 200px;
-    margin-right: 200px; */
+    margin-left: 50px
     justify-content: space-between;
  }
  
