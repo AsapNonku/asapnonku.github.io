@@ -180,7 +180,7 @@ table {
 
  .socialMedia {
     width: 60px;
-    display: flex;
+    display: inline-block;
     margin-left: 200px;
     margin-right: 200px;
     justify-content: center;
