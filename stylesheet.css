@@ -69,8 +69,7 @@ table {
    font-family: "Merriweather";
    background-color: rgb(128,128,128, 0.75);
    color: #FFFFFF;
-   margin-left: 400px;
-   margin-right: 400px;
+   margin-left: 600px;
    margin-bottom: 50px;
    border-radius: 6px;
 }
@@ -140,7 +139,7 @@ table {
  }
 
  .socialMedia {
-    width: 80px;
+    width: 60px;
     display: inline-flex;
     justify-content: center;
  }
