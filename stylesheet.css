@@ -8,7 +8,7 @@ html, body {
 @media only screen and (min-width: 320px) {
     header ul {
       display: flex; 
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       justify-content: space-evenly;
       margin: 0;
@@ -44,6 +44,14 @@ h3 {
    font-family: "Merriweather";
    padding-top: 20px;
    font-size: 30px;
+   font-weight: bold;
+}
+
+h4 {
+   text-align: center;
+   font-family: "Merriweather";
+   padding-top: 20px;
+   font-size: 18px;
    font-weight: bold;
 }
 
