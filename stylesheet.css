@@ -147,26 +147,31 @@ table {
  .about {
    width: auto;
    height: auto;
+   padding-bottom; 50px;
  }
 
  .experience {
    width: auto;
    height: auto;
+   padding-bottom; 50px;
  }
 
  .education {
    width: auto;
    height: auto;
+   padding-bottom; 50px;
  }
 
  .skills {
    width: auto;
    height: auto;
+   padding-bottom; 50px;
  }
 
  .contact {
    width: auto;
    height: auto;
+   padding-bottom; 50px;
  }
 
  .icon {
