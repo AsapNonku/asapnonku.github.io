@@ -127,6 +127,31 @@ table {
    display: flex;
  }
 
+ .aboutPage {
+   width: auto;
+   height: auto;
+ }
+
+ .experience {
+   width: auto;
+   height: auto;
+ }
+
+ .education {
+   width: auto;
+   height: auto;
+ }
+
+ .skills {
+   width: auto;
+   height: auto;
+ }
+
+ .contact {
+   width: auto;
+   height: auto;
+ }
+
  .icon {
    width: 200px;
    align-items: center;
