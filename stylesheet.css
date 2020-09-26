@@ -115,8 +115,12 @@ table {
  }
 
  hr {
-   border-top:8px solid #FFC0CB; 
-   border-style: none none dotted;
+   border:none;
+   border-top:8px dashed #FFC0CB;
+   color:#FFC0CB;
+   background-color:#FFC0CB;
+   height:3px;
+   width:50%;
    align-items: center;
  }
 
