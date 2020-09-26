@@ -89,12 +89,12 @@ table {
    text-align: center;
    text-decoration: none;
    padding: 14px 16px;
-   color: white;
+   color: #FFFFFF;
    font-family: "Merriweather";
  }
 
  li a:hover {
-   background-color: pink;
+   background-color: #FFC0CB;
  }
 
  hr {
