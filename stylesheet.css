@@ -169,7 +169,7 @@ table {
    width: 200px;
    align-items: center;
    margin-left: 600px;
-   margin-right: 500px;
+   margin-right: 400px;
  }
 
  .socialMedia {
@@ -225,6 +225,10 @@ table {
  #experience {
     margin-left: 300px;
     margin-right: 300px;
+ }
+
+ #education {
+    margin-right: 100px;
  }
 
  #skills {
