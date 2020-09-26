@@ -160,6 +160,10 @@ table {
     width: 80px;
     display: flex;
  }
+ 
+ #main {
+    overflow-x: hidden;
+ }
 
  #navbar {
    width: 100%;
