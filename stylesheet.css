@@ -5,7 +5,7 @@ html, body {
 }
 
 @media only screen and (min-width: 320px) {
-    header ul {
+    body {
       display: flex; 
       flex-direction: row;
       align-items: center;
@@ -141,6 +141,7 @@ table {
  .socialMedia {
     width: 60px;
     display: inline-flex;
+    margin-right: 100px;
     justify-content: center;
  }
  
@@ -200,7 +201,7 @@ table {
 
  #contact {
     margin-right: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
  }
 
  #myBtn {
