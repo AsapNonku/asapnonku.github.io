@@ -124,17 +124,17 @@ table {
    display: flex;
  }
 
- .aboutPage {
-   width: 100%;
+/*  .aboutPage { */
+/*    width: 100%;
    height: auto;
  }
 
  .experience {
    width: 100%;
    height: auto;
- }
+ } */
 
- .education {
+/*  .education {
    width: 100%;
    height: auto;
  }
@@ -147,7 +147,7 @@ table {
  .contact {
    width: 100%;
    height: auto;
- }
+ } */
 
  .icon {
    width: 200px;
@@ -203,8 +203,13 @@ table {
 
  #skills {
     width: 300px;
-    margin-right: 400px;
-    margin-left: 400px;
+    margin-right: 600px;
+    margin-left: 600px;
+ }
+
+ #contact {
+    margin-right: 600px;
+    margin-left: 600px;
  }
 
  #myBtn {
