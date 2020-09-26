@@ -82,6 +82,7 @@ table {
    display: inline-grid;
    padding: 4px;
    font-family: "Merriweather";
+   text-decoration: none;
  }
 
  li a {
