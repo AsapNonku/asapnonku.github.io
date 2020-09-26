@@ -64,7 +64,8 @@ p {
 table {
    align-items: center;
    font-family: "Merriweather";
-   background-color: rgba(255,255,255, 0.75);
+   background-color: rgb(128,128,128, 0.75);
+   color: #FFFFFF;
    margin-left: 400px;
    margin-right: 400px;
    margin-bottom: 50px;
@@ -118,7 +119,7 @@ table {
    height: auto;
    background-image: url("images/backgroundImgIntro-min.jpeg");
    padding-top: 100px;
-   padding-bottom: 200px;
+   padding-bottom: 210px;
    display: flex;
  }
 
@@ -177,7 +178,10 @@ table {
     padding-top: 20px; 
     padding-bottom: 20px;
     margin-bottom: 20px;
-    background-color: rgba(255,255,255, 0.7);
+    margin-right: 100px; 
+    margin-left: 100px;
+    background-color: rgb(128,128,128, 0.75);
+    color: #FFFFFF;
  }
 
  #container {
