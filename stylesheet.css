@@ -95,6 +95,7 @@ table {
    height: 100px;
    display: flex;
    justify-content: space-evenly;
+   padding-top: 10px;
    margin-left: 0;
  }
 
