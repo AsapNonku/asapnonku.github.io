@@ -4,7 +4,7 @@ Digital Resume of Nonkululeko Jezile
 The website created is my digital resume/personal webpage. With a brief description of who I am, my academic and professional background information is included in separate sections as well as my contact information.
 
 ## How to get started:  
-This website has been made public and is available to view on a variety of browsers. You simply have to copy and paste the website link into a browser in order to view it. 
+This website has been made public and is available to view on a variety of browsers. You simply have to copy and paste the website link into a browser in order to view it. To navigate through sections across the website you can click on the links inserted within the navigation menu. A scroll to top button has also been included as an additional aid for navigating the site.
 
 ## Built with: 
 This webpage was built on a dedicated GitHub repository using HTML5, CSS3 and JavaScript languages. Google Chrome was the web browser through which the project was completed.
