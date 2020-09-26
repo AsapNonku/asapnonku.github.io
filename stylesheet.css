@@ -210,6 +210,8 @@ table {
     width: 300px;
     margin-right: 600px;
     margin-left: 600px;
+    padding-left: 50px;
+    padding-right: 50px;
  }
 
  #contact {
