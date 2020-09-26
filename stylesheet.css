@@ -180,10 +180,9 @@ table {
 
  .socialMedia {
     width: 60px;
-    display: inline-block;
+    display: flex;
     margin-left: 200px;
     margin-right: 200px;
-    align-items: center;
     justify-content: space-between;
  }
  
