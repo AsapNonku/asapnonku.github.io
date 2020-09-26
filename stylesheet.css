@@ -184,7 +184,8 @@ table {
 
  #title {
    padding-bottom: 20px;
-   margin-top: 250px;
+   margin-top: 280px;
+   justify-content: center;
    font-size: 1.5rem;
  }
 
@@ -224,7 +225,7 @@ table {
 
  #contact {
     margin-right: 600px;
-    margin-left: 600px;
+    margin-left: 400px;
  }
 
  #myBtn {
