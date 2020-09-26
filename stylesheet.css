@@ -158,9 +158,16 @@ table {
    margin-right: 600px;
  }
 
+ .skillsIcon {
+   width: 200px;
+   align-items: center;
+   margin-left: 600px;
+   margin-right: 500px;
+ }
+
  .socialMedia {
     width: 80px;
-    display: flex;
+    display: inline-flex;
  }
  
  #main {
