@@ -2,8 +2,6 @@ html, body {
     margin: 0;
     padding: 0;
     flex: 1;
-/*     height: 100%;  */
-/*     width: 100%: */
 }
 
 @media only screen and (min-width: 320px) {
@@ -85,6 +83,7 @@ table {
    height: 100px;
    display: flex;
    justify-content: space-evenly;
+   margin-left: 0;
  }
 
  li {
