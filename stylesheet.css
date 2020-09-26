@@ -118,7 +118,7 @@ table {
    height: auto;
    background-image: url("images/backgroundImgIntro-min.jpeg");
    padding-top: 100px;
-   padding-bottom: 100px;
+   padding-bottom: 200px;
    display: flex;
  }
 
@@ -192,7 +192,8 @@ table {
  }
 
  #experience {
-    margin-left: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
  }
 
  #foot {
