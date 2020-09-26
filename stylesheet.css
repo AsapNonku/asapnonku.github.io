@@ -64,12 +64,13 @@ table {
    align-items: center;
    font-family: "Merriweather";
    background-color: rgba(255,255,255, 0.7);
+   margin-left: 300px;
+   margin-right: 300px;
    margin-bottom: 50px;
 }
 
  ul {
    list-style-type: none;
-   padding: 0;
    overflow: hidden;
    background-color: #808080;
    position: fixed;
@@ -77,8 +78,6 @@ table {
    height: 100px;
    display: flex;
    justify-content: space-evenly;
-   padding-inline-start: 0;
-   margin: 0;
  }
 
  li {
@@ -110,6 +109,7 @@ table {
    border-style: none none dotted;
    color: #808080;
    background-color: #808080;
+   align-items: center;
  }
 
  .introductoryPage {
@@ -149,6 +149,8 @@ table {
  .icon {
    width: 200px;
    align-items: center;
+   margin-left: 300px;
+   margin-right: 300px;
  }
 
  .socialMedia {
