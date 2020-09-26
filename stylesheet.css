@@ -183,8 +183,8 @@ table {
     display: inline-block;
     margin-left: 200px;
     margin-right: 200px;
-    justify-content: center;
     align-items: center;
+    justify-content: space-between;
  }
  
  #main {
@@ -206,6 +206,8 @@ table {
    display: flex;
    box-sizing: inherit;
    background-color: rgb(255, 255, 255, 0.8)
+   border: 1px solid #FFFFFF;
+   border-radius: 15px;
  }
 
  #about {
