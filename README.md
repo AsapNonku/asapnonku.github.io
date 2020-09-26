@@ -13,7 +13,7 @@ This webpage was built on a dedicated GitHub repository using HTML5, CSS3 and Ja
 The author for this website is Nonkululeko Jezile. Authors to code that was not authentically created by me are cited below under Acknowledgements. 
 
 ## Acknowledgements: 
-**1. Coding: 
+1. Coding: 
 
 - Yu, Angela. 2018. The Complete Front-end development course. Udemy. https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287468#overview (2020)
 
@@ -25,7 +25,7 @@ The author for this website is Nonkululeko Jezile. Authors to code that was not 
 
 - Purple Booth.2020. Readme Template. GitHub. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-**2. Inspiration: 
+2. Inspiration: 
 
 
 - Sean Halpin https://www.seanhalpin.design/ 
