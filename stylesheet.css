@@ -79,7 +79,7 @@ p {
 }
 
 .table {
-   display: table;
+   display: inline-flex;
    align-items: center;
    font-family: "Merriweather";
    background-color: rgb(255, 255, 255, 0.75);
@@ -89,12 +89,10 @@ p {
 }
 
 .tableRow {
-   display: table-row;
    width: auto;
 }
 
 .tableCell {
-   display: table-cell;
    padding: 30px;
    text-align: center;
    width: 50px;
