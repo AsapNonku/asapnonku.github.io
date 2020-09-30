@@ -40,6 +40,7 @@ h1 {
    font-family: "Syne"; 
    font-size: 5rem;
    color: #A9A9A9;
+   padding: 50px;
 }
 
 h2 {
@@ -47,6 +48,7 @@ h2 {
    color: #800000;
    font-size: 1.5rem;
    font-family: "Merriweather";
+   padding: 30px;
 }
 
 h3 {
@@ -100,7 +102,6 @@ p {
    height: 100px;
    display: flex;
    justify-content: space-evenly;
-   padding-top: 10px;
  }
 
  li {
@@ -211,9 +212,10 @@ p {
 
  #navbar {
    width: 100%;
-   margin: 20px;
+   margin: 0;
    display: block;
    font-size: 18px;
+   padding: 15px;
  }
 
  #intro {
