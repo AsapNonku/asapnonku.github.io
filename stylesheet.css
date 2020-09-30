@@ -82,20 +82,22 @@ p {
    display: table;
    align-items: center;
    font-family: "Merriweather";
-   background-color: rgb(128,128,128, 0.75);
-   color: #FFFFFF;
+   background-color: rgb(255, 255, 255, 0.75);
    padding: 80px;
    border-radius: 6px;
+   width: 100%;
 }
 
 .tableRow {
    display: table-row;
+   width: auto;
 }
 
 .tableCell {
    display: table-cell;
    padding: 30px;
    text-align: center;
+   width: 50px;
 }
 
  ul {
