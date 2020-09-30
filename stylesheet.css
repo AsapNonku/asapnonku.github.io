@@ -91,14 +91,14 @@ h4 {
 
 p {
    text-align: center;
-   font-family: "Merriweather";
+   font-family: "Syne";
    padding: 30px;
 }
 
 .table {
    display: flex;
    justify-content: justify;
-   font-family: "Merriweather";
+   font-family: "Syne";
    background-color: rgb(255, 255, 255, 0.8);
    padding: 80px;
    border-radius: 6px;
@@ -125,13 +125,13 @@ p {
 
  li {
    float: center;
-   font-family: "Merriweather";
+   font-family: "Syne";
  }
 
  a {
    display: inline-flex;
    padding: 4px;
-   font-family: "Merriweather";
+   font-family: "Syne";
    text-decoration: none;
  }
 
@@ -140,7 +140,7 @@ p {
    text-decoration: none;
    padding: 14px 16px;
    color: #FFFFFF;
-   font-family: "Merriweather";
+   font-family: "Syne";
  }
 
  li a:hover {
@@ -243,7 +243,8 @@ p {
    padding: 50px;
    display: inline-block;
    box-sizing: inherit;
-   background-color: rgb(255, 255, 255, 0.8)
+   background-color: rgb(255, 255, 255, 0.8);
+   margin-left: 300px;
  }
 
  .about {
