@@ -194,7 +194,22 @@ p {
    align-items: center;
  }
 
+ .expIcon {
+   width: 200px;
+   align-items: center;
+ }
+
+ .eduIcon {
+   width: 200px;
+   align-items: center;
+ }
+
  .skillsIcon {
+   width: 200px;
+   align-items: center;
+ }
+
+ .contactIcon {
    width: 200px;
    align-items: center;
  }
