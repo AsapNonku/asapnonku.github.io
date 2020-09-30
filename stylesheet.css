@@ -154,10 +154,15 @@ p {
    display: flex;
  }
 
- .about {
-   width: auto;
-   height: auto;
-   padding-bottom; 50px;
+ #about {
+    padding-top: 20px; 
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px; 
+    margin-left: 100px;
+    background-color: rgb(128,128,128, 0.75);
+    color: #FFFFFF;
+    border-radius: 6px;
  }
 
  .experience {
@@ -223,15 +228,10 @@ p {
    background-color: rgb(255, 255, 255, 0.8)
  }
 
- #about {
-    padding-top: 20px; 
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-    margin-right: 100px; 
-    margin-left: 100px;
-    background-color: rgb(128,128,128, 0.75);
-    color: #FFFFFF;
-    border-radius: 6px;
+ .about {
+   width: auto;
+   height: auto;
+   padding-bottom; 50px;
  }
 
  #container {
