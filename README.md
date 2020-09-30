@@ -23,7 +23,9 @@ The author for this website is Nonkululeko Jezile. Authors to code that was not 
 
 - W3Schools for Javascript scroll up button and CSS display properties
 
-- Purple Booth.2020. Readme Template. GitHub. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+- Purple Booth.2020. Readme Template. GitHub. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 
+
+- Ketan V. 2017. How to Create Responsive Tables using CSS without <table> Tag. https://wisdmlabs.com/blog/responsive-tables-using-css-div-tag/
 
 2. Inspiration: 
 
