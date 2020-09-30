@@ -217,22 +217,24 @@ p {
    align-items: center;
  }
 
- .socialMedia {
+/*  .socialMedia {
     width: 60px;
     display: flex;
     margin-left: 60px;
     margin-right: 20px;
     justify-content: space-between;
- }
+ } */
  
  #main {
     overflow-x: hidden;
  }
 
- #navbar {
+ .navbar {
    height: 150px;
    font-size: 18px;
    padding: 15px;
+   background-color: rgb(211,211,211);
+   color: rgb(255, 255, 255);
  }
 
  #intro {
@@ -282,29 +284,50 @@ p {
     margin-left: 400px;
  }
 
- #myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: rgb(255,0,0, 0.75)
-  color: #FFFFFF;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 10px;
+#toTopBtn {
+    position: fixed;
+    bottom: 26px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: hsla(5, 76%, 62%, .8)
 }
 
-#myBtn:hover {
-  background-color: #808080;
+.js .cd-top--fade-out {
+    opacity: .5
+}
 
+.js .cd-top--is-visible {
+    visibility: visible;
+    opacity: 1
+}
+
+.js .cd-top {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .3s, visibility .3s, background-color .3s
+}
+
+.cd-top {
+    position: fixed;
+    bottom: 20px;
+    bottom: var(--cd-back-to-top-margin);
+    right: 20px;
+    right: var(--cd-back-to-top-margin);
+    display: inline-block;
+    height: 40px;
+    height: var(--cd-back-to-top-size);
+    width: 40px;
+    width: var(--cd-back-to-top-size);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .05) !important;
+    background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg) no-repeat center 50%;
+    background-color: hsla(5, 76%, 62%, .8);
+    background-color: hsla(var(--cd-color-3-h), var(--cd-color-3-s), var(--cd-color-3-l), 0.8)
+}
  .pageFooter {
     position:absolute;
     bottom: 0;
-    background-color: #FFE6F7;
+    background-color: rgb(211,211,211);
     color: #FFFFFF;
     width: 100%;
 }
