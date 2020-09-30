@@ -151,8 +151,8 @@ p {
    width: 100%;
    height: auto;
    background-image: url("images/backgroundImgIntro-min.jpeg");
-   padding-top: 250px;
-   padding-bottom: 260px;
+/*    padding-top: 250px;
+   padding-bottom: 260px; */
    display: flex;
  }
 
