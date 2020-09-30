@@ -78,14 +78,24 @@ p {
    padding-left: 10px;
 }
 
-table {
+.table {
+   display: table;
    align-items: center;
    font-family: "Merriweather";
    background-color: rgb(128,128,128, 0.75);
    color: #FFFFFF;
-   margin-left: 500px;
-   margin-bottom: 50px;
+   padding: 80px;
    border-radius: 6px;
+}
+
+.tableRow {
+   display: table-row;
+}
+
+.tableCell {
+   display: table-cell;
+   padding: 30px;
+   text-align: center;
 }
 
  ul {
