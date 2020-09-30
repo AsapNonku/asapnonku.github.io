@@ -78,7 +78,7 @@ p {
    padding-left: 10px;
 }
 
-.table {
+#table {
    display: table;
    align-items: center;
    font-family: "Merriweather";
