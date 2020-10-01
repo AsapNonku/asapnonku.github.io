@@ -100,7 +100,6 @@ p {
  ul {
    list-style-type: none;
    overflow: hidden;
-   background-color: #808080;
    position: fixed;
    margin-block-start: 0;
    margin-block-start: 0;
@@ -127,7 +126,6 @@ p {
    text-align: center;
    text-decoration: none;
    padding: 14px 16px;
-   color: rgb(255, 255, 255);
    font-family: "Syne";
  }
 
@@ -222,7 +220,6 @@ p {
  .navbar {
    font-size: 18px;
    padding: 15px;
-   color: rgb(255, 255, 255);
  }
 
  #intro {
