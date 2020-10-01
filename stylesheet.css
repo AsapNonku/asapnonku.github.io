@@ -1,4 +1,4 @@
-html, body {
+html {
     margin: 0;
     padding: 0;
     display: flex; 
@@ -206,7 +206,7 @@ p {
  #intro {
    align-content: center;
    padding: 50px;
-   display: inline-block;
+   display: flex;
    box-sizing: inherit;
    background-color: rgb(255, 255, 255, 0.8);
  }
@@ -215,7 +215,6 @@ p {
    width: 100%;
    margin: 0;
    padding: 0;
-/*    background-image: url("images/backgroundImgBody-min.jpeg"); */
    display: flex;
    flex-direction: column;
    align-items: center;
