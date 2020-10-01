@@ -146,9 +146,8 @@ p {
     padding-top: 20px; 
     padding-bottom: 20px;
     margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 100px; 
-    margin-left: 100px;
+    margin-bottom: 20px; 
+    margin-left: 200px;
     background-color: rgb(255, 255, 255, 0.8);
     border-radius: 6px;
  }
@@ -188,22 +187,25 @@ p {
  .expIcon {
    width: 200px;
    align-items: center;
-   margin
+   margin-left: 200px;
  }
 
  .eduIcon {
    width: 200px;
    align-items: center;
+   margin-left: 200px;
  }
 
  .skillsIcon {
    width: 200px;
    align-items: center;
+   margin-left: 200px;
  }
 
  .contactIcon {
    width: 200px;
    align-items: center;
+   margin-left: 200px;
  }
 
 /*  .socialMedia {
