@@ -73,10 +73,10 @@ h3 {
    padding-top: 20px;
    font-size: 30px;
    font-weight: bold;
-   color: #800000;
+   rgb(128,128,128);
 }
 
-h4 {
+/* h4 {
    text-align: center;
    font-family: "Merriweather";
    padding-top: 25px;
@@ -87,7 +87,7 @@ h4 {
    color: #800000;
    margin-block-start: 0;
    margin-block-end: 0;
-}
+} */
 
 p {
    text-align: center;
@@ -119,7 +119,6 @@ p {
    margin-block-start: 0;
    padding-inline-start: 0px;
    width: 100%;
-   height: 100px;
    display: flex;
    justify-content: space-evenly;
  }
@@ -134,18 +133,19 @@ p {
    padding: 4px;
    font-family: "Syne";
    text-decoration: none;
+   color: rgb(255, 255, 255);
  }
 
  li a {
    text-align: center;
    text-decoration: none;
    padding: 14px 16px;
-   color: #FFFFFF;
+   color: rgb(255, 255, 255);
    font-family: "Syne";
  }
 
  li a:hover {
-   background-color: #FFC0CB;
+  color: rgb(255,192,203);
  }
 
  .introductoryPage {
@@ -171,18 +171,21 @@ p {
    width: auto;
    height: auto;
    padding-bottom; 50px;
+   background-color: rgb(255, 255, 255, 0.8);
  }
 
  .education {
    width: auto;
    height: auto;
    padding-bottom; 50px;
+   background-color: rgb(255, 255, 255, 0.8);
  }
 
  .skills {
    width: auto;
    height: auto;
    padding-bottom; 50px;
+   background-color: rgb(255, 255, 255, 0.8);
  }
 
  .contact {
@@ -230,12 +233,9 @@ p {
  }
 
  .navbar {
-   height: 150px;
    font-size: 18px;
    padding: 15px;
-   background-color: rgb(211,211,211);
    color: rgb(255, 255, 255);
-   
  }
 
  #intro {
@@ -257,7 +257,7 @@ p {
    width: 100%;
    margin: 0;
    padding: 0;
-   background-image: url("images/backgroundImgBody-min.jpeg");
+/*    background-image: url("images/backgroundImgBody-min.jpeg"); */
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -266,10 +266,12 @@ p {
 
  .experience {
    align-items: center;
+   padding-bottom: 50px;
  }
 
  #education {
     margin-right: 450px;
+    padding-bottom: 50px;
  }
 
  #skills {
@@ -278,11 +280,13 @@ p {
     margin-left: 600px;
     padding-left: 50px;
     padding-right: 50px;
+    padding-bottom: 50px;
  }
 
  #contact {
     margin-right: 400px;
     margin-left: 400px;
+    padding-bottom: 50px;
  }
 
 #toTopBtn {
