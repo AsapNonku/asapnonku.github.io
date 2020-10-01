@@ -204,12 +204,11 @@ p {
  }
 
  #intro {
-   justify-content: center;
+   align-content: center;
    padding: 50px;
    display: inline-block;
    box-sizing: inherit;
    background-color: rgb(255, 255, 255, 0.8);
-   margin-left: 250px;
  }
 
  #container {
