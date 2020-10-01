@@ -187,7 +187,7 @@ p {
  .expIcon {
    width: 200px;
    align-items: center;
-   margin-left: 200px;
+   margin-left: 250px;
  }
 
  .eduIcon {
@@ -207,14 +207,6 @@ p {
    align-items: center;
    margin-left: 200px;
  }
-
-/*  .socialMedia {
-    width: 60px;
-    display: flex;
-    margin-left: 60px;
-    margin-right: 20px;
-    justify-content: space-between;
- } */
  
  #main {
     overflow-x: hidden;
@@ -223,6 +215,7 @@ p {
  .navbar {
    font-size: 18px;
    padding: 15px;
+   background-color: rgb(128,128,128)
  }
 
  #intro {
