@@ -152,6 +152,10 @@ p {
     border-radius: 6px;
  }
 
+ .profile {
+    margin-bottom: 20px;
+ }
+
  .experience {
    width: auto;
    height: auto;
