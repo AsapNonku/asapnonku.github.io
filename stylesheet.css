@@ -135,6 +135,10 @@ p {
   color: rgb(255,192,203);
  }
 
+ span {
+   position: static;
+ }
+
  .introductoryPage {
    width: 100%;
    background-image: url("images/backgroundImgIntro-min.jpeg");
