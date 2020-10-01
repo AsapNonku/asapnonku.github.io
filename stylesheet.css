@@ -116,6 +116,7 @@ p {
 
  li a:hover {
   color: rgb(255,192,203);
+  cursor: pointer;
  }
 
  span {
